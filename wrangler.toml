@@ -1,0 +1,6 @@
+name = "cloudflare-as-cdn"
+main = ".cloudflare/index.ts"
+compatibility_date = "2022-12-08"
+
+[site]
+bucket = "./docs"
